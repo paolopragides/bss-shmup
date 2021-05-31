@@ -1,0 +1,12 @@
+{
+  "name": "BBS.io",
+  "displayName": "BBS.io",
+  "expo": {
+    "name": "BBS.io",
+    "slug": "BBS.io",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
